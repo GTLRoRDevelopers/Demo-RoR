@@ -22,5 +22,6 @@ namespace ConsoleApplication1
     class ClassAbhi
     {
         string test = "testing abhi";
+        string test = "testing";
     }
 }
