@@ -9,4 +9,9 @@ namespace ConsoleApplication1
     {
         string test = "tets";
     }
+
+    class ClassHV
+    {
+        string test1 = "test commit";
+    }
 }

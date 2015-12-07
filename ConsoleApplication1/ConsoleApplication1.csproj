@@ -43,8 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ConsoleApplication1.exe" />
+    <Content Include="bin\Debug\ConsoleApplication1.pdb" />
+    <Content Include="bin\Debug\ConsoleApplication1.vshost.exe" />
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="obj\x86\Debug\ConsoleApplication1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\ConsoleApplication1.exe" />
+    <Content Include="obj\x86\Debug\ConsoleApplication1.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\x86\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
