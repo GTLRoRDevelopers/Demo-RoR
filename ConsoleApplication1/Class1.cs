@@ -7,6 +7,6 @@ namespace ConsoleApplication1
 {
     class Class1
     {
-        
+        string test = "tets";
     }
 }
