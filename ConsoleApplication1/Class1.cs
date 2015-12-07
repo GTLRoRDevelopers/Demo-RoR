@@ -21,6 +21,7 @@ namespace ConsoleApplication1
     }
     class ClassAbhi
     {
-        string testing = "testing abhi";        
+        string testing = "testing abhsi";
+        string a = "test";
     }
 }
