@@ -21,6 +21,10 @@ namespace ConsoleApplication1
     }
     class ClassAbhi
     {
-        string testing = "testing abhi";        
+<<<<<<< HEAD
+        string test = "testing abhi";
+=======
+        string test = "testing";
+>>>>>>> befd1e2ce3e131f4590f1fcbc74d2ec9b1c7a72a
     }
 }
