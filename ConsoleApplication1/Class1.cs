@@ -14,4 +14,9 @@ namespace ConsoleApplication1
     {
         string test1 = "test commit";
     }
+
+    class ClassAstik
+    {
+        string test1 = "test commit";
+    }
 }
