@@ -7,7 +7,7 @@ namespace ConsoleApplication1
 {
     class Class2
     {
-        string astik = "pc";
+        string aabhi = "test";
         string astik = "net";
     }
 }
