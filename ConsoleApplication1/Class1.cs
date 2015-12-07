@@ -19,4 +19,8 @@ namespace ConsoleApplication1
     {
         string test1 = "test commit";
     }
+    class ClassAbhi
+    {
+        string test = "testing oraganisation";
+    }
 }
