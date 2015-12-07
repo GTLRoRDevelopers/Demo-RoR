@@ -21,10 +21,11 @@ namespace ConsoleApplication1
     }
     class ClassAbhi
     {
-<<<<<<< HEAD
-        string test = "testing abhi";
+<<<<<<< Updated upstream
+        string testing = "testing abhsi";
+        string a = "test";
 =======
-        string test = "testing";
->>>>>>> befd1e2ce3e131f4590f1fcbc74d2ec9b1c7a72a
+        string testing = "testing abhi";        
+>>>>>>> Stashed changes
     }
 }
