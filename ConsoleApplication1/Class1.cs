@@ -15,12 +15,8 @@ namespace ConsoleApplication1
         string test1 = "test commit";
     }
 
-    class ClassAstik
+    class ClassAstik123
     {
         string test1 = "test commit";
-    }
-    class ClassAbhi
-    {
-        string testing = "testing abhi";        
     }
 }

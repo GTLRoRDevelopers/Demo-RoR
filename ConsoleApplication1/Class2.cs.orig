@@ -7,10 +7,10 @@ namespace ConsoleApplication1
 {
     class Class2
     {
-<<<<<<< Updated upstream
-        string astik = "testing astik";
-=======
         string aabhi = "test";
->>>>>>> Stashed changes
+<<<<<<< e193c1478efa1729725328347e4fafac74a4829c
+        string astik = "net";
+=======
+>>>>>>> finally tested
     }
 }
