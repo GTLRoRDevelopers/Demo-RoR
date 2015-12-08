@@ -5,9 +5,9 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
-    class Class1
+    class ClassHR
     {
-        string test = "tets";
+        string test = "tets Done";
     }
 
     class ClassHV

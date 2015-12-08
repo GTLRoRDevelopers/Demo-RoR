@@ -9,10 +9,5 @@ namespace ConsoleApplication1
     {
         string astik = "pc";
         string astik = "net";
-<<<<<<< Updated upstream
-        string astik = "testing astik";
-        string astik = "net";
-=======
->>>>>>> finally tested
     }
 }
