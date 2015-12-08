@@ -60,6 +60,11 @@
     <Content Include="obj\x86\Debug\ConsoleApplication1.pdb" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Class1.cs.orig" />
+    <None Include="Class2.cs.BASE" />
+    <None Include="Class2.cs.LOCAL" />
+    <None Include="Class2.cs.orig" />
+    <None Include="Class2.cs.REMOTE" />
     <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
   </ItemGroup>
   <ItemGroup>
