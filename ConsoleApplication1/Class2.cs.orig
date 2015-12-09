@@ -7,12 +7,10 @@ namespace ConsoleApplication1
 {
     class Class2
     {
-        string astik = "pc";
-        string astik = "net";
-<<<<<<< Updated upstream
-        string astik = "testing astik";
-        string astik = "net";
+        string aabhi = "test";
+<<<<<<< HEAD
 =======
->>>>>>> finally tested
+        string astik = "net";
+>>>>>>> e193c14... finally tested
     }
 }
