@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Class2
+    {
+        string astik = "testing";
+    }
+	class Class2
+    {
+        string harshil = "testing";
+    }
+	class Class2
+    {
+        string branch = "tested";
+    }
+    }
+	class branch2
+    {
+        string branch = "tested";
+    }
+}
