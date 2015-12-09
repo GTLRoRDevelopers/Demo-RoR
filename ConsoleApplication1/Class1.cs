@@ -17,10 +17,10 @@ namespace ConsoleApplication1
 
     class ClassAstik
     {
-        string test1 = "test commit";
+        string test1 = "test commited ";
     }
     class ClassAbhi
     {
-        string testing = "testing abhi";        
+        string testing = "testing abhi";
     }
 }
