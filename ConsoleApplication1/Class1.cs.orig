@@ -23,6 +23,7 @@ namespace ConsoleApplication1
     class ClassAbhi
     {
         string testing = "testing abhi";
+>>>>>>> Stashed changes
     }
 	class branch
     {

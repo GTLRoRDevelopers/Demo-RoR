@@ -13,6 +13,10 @@ namespace ConsoleApplication1
     {
         string harshil = "testing";
     }
+	class Class2
+    {
+        string harshil = "testing";
+    }
 	class branch2
     {
         string branch = "tested";
