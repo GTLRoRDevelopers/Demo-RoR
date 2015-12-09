@@ -9,4 +9,8 @@ namespace ConsoleApplication1
     {
         string astik = "testing";
     }
+	class Class2
+    {
+        string harshil = "testing";
+    }
 }

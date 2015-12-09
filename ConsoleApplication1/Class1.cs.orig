@@ -5,9 +5,9 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
-    class Class1
+    class ClassHR
     {
-        string test = "tets";
+        string test = "tets Done";
     }
 
     class ClassHV
@@ -15,17 +15,13 @@ namespace ConsoleApplication1
         string test1 = "test commit";
     }
 
-    class ClassAstik
+    class ClassAstik123
     {
-        string test1 = "test commit";
+        string test1 = "test commited ";
+
     }
     class ClassAbhi
     {
-<<<<<<< Updated upstream
-        string testing = "testing abhsi";
-        string a = "test";
-=======
-        string testing = "testing abhi";        
->>>>>>> Stashed changes
+        string testing = "testing abhi";
     }
 }

@@ -12,5 +12,8 @@ namespace ConsoleApplication1
 =======
         string astik = "net";
 >>>>>>> e193c14... finally tested
+
+        string harshil = "net";
+>>>>>>> e193c14... finally tested
     }
 }
