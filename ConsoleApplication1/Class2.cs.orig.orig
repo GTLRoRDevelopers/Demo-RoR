@@ -7,7 +7,11 @@ namespace ConsoleApplication1
 {
     class Class2
     {
+<<<<<<< HEAD
         string aabhi = "test";
+        string astik = "net";
+=======
         string astik = "pc";
+>>>>>>> 2b2d165f281de285c03ef2eb2810d3c66fe4074a
     }
 }
